@@ -1,2 +1,2 @@
 # ZBH
-Text GUI Based bash
+Text GUI Based bash type command line
